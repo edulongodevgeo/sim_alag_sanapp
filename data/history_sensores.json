@@ -1,0 +1,1112 @@
+[
+  {
+    "sensor_id": "S001",
+    "date": "2025-12-16",
+    "rain_mm_day": 15.6,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S002",
+    "date": "2025-12-16",
+    "rain_mm_day": 15.6,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S003",
+    "date": "2025-12-16",
+    "rain_mm_day": 15.6,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S004",
+    "date": "2025-12-16",
+    "rain_mm_day": 15.6,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S005",
+    "date": "2025-12-16",
+    "rain_mm_day": 15.6,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S006",
+    "date": "2025-12-16",
+    "rain_mm_day": 15.6,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S007",
+    "date": "2025-12-16",
+    "rain_mm_day": 15.6,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S008",
+    "date": "2025-12-16",
+    "rain_mm_day": 15.6,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S009",
+    "date": "2025-12-16",
+    "rain_mm_day": 15.6,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S010",
+    "date": "2025-12-16",
+    "rain_mm_day": 15.6,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S011",
+    "date": "2025-12-16",
+    "rain_mm_day": 15.6,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S012",
+    "date": "2025-12-16",
+    "rain_mm_day": 15.6,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S013",
+    "date": "2025-12-16",
+    "rain_mm_day": 15.6,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S014",
+    "date": "2025-12-16",
+    "rain_mm_day": 15.6,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S015",
+    "date": "2025-12-16",
+    "rain_mm_day": 15.6,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S016",
+    "date": "2025-12-16",
+    "rain_mm_day": 15.6,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S017",
+    "date": "2025-12-16",
+    "rain_mm_day": 15.6,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S001",
+    "date": "2025-12-23",
+    "rain_mm_day": 4.5,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S002",
+    "date": "2025-12-23",
+    "rain_mm_day": 4.5,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S003",
+    "date": "2025-12-23",
+    "rain_mm_day": 4.5,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S004",
+    "date": "2025-12-23",
+    "rain_mm_day": 4.5,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S005",
+    "date": "2025-12-23",
+    "rain_mm_day": 4.5,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S009",
+    "date": "2025-12-23",
+    "rain_mm_day": 4.5,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S011",
+    "date": "2025-12-23",
+    "rain_mm_day": 4.5,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S013",
+    "date": "2025-12-23",
+    "rain_mm_day": 4.5,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S014",
+    "date": "2025-12-23",
+    "rain_mm_day": 4.5,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S015",
+    "date": "2025-12-23",
+    "rain_mm_day": 4.5,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S017",
+    "date": "2025-12-23",
+    "rain_mm_day": 4.5,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S001",
+    "date": "2025-12-24",
+    "rain_mm_day": 12.3,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S002",
+    "date": "2025-12-24",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S003",
+    "date": "2025-12-24",
+    "rain_mm_day": 12.3,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S004",
+    "date": "2025-12-24",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S005",
+    "date": "2025-12-24",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S006",
+    "date": "2025-12-24",
+    "rain_mm_day": 12.3,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S007",
+    "date": "2025-12-24",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S008",
+    "date": "2025-12-24",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S009",
+    "date": "2025-12-24",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S010",
+    "date": "2025-12-24",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S011",
+    "date": "2025-12-24",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S012",
+    "date": "2025-12-24",
+    "rain_mm_day": 12.3,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S013",
+    "date": "2025-12-24",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S014",
+    "date": "2025-12-24",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S015",
+    "date": "2025-12-24",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S016",
+    "date": "2025-12-24",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S017",
+    "date": "2025-12-24",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S001",
+    "date": "2025-12-27",
+    "rain_mm_day": 3.6,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S002",
+    "date": "2025-12-27",
+    "rain_mm_day": 3.6,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S004",
+    "date": "2025-12-27",
+    "rain_mm_day": 3.6,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S005",
+    "date": "2025-12-27",
+    "rain_mm_day": 3.6,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S015",
+    "date": "2025-12-27",
+    "rain_mm_day": 3.6,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S017",
+    "date": "2025-12-27",
+    "rain_mm_day": 3.6,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S001",
+    "date": "2025-12-28",
+    "rain_mm_day": 12.3,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S002",
+    "date": "2025-12-28",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S003",
+    "date": "2025-12-28",
+    "rain_mm_day": 12.3,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S004",
+    "date": "2025-12-28",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S005",
+    "date": "2025-12-28",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S006",
+    "date": "2025-12-28",
+    "rain_mm_day": 12.3,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S007",
+    "date": "2025-12-28",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S008",
+    "date": "2025-12-28",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S009",
+    "date": "2025-12-28",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S010",
+    "date": "2025-12-28",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S011",
+    "date": "2025-12-28",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S012",
+    "date": "2025-12-28",
+    "rain_mm_day": 12.3,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S013",
+    "date": "2025-12-28",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S014",
+    "date": "2025-12-28",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S015",
+    "date": "2025-12-28",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S016",
+    "date": "2025-12-28",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S017",
+    "date": "2025-12-28",
+    "rain_mm_day": 12.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S001",
+    "date": "2025-12-29",
+    "rain_mm_day": 82.5,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S002",
+    "date": "2025-12-29",
+    "rain_mm_day": 82.5,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S003",
+    "date": "2025-12-29",
+    "rain_mm_day": 82.5,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S004",
+    "date": "2025-12-29",
+    "rain_mm_day": 82.5,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S005",
+    "date": "2025-12-29",
+    "rain_mm_day": 82.5,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S006",
+    "date": "2025-12-29",
+    "rain_mm_day": 82.5,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S007",
+    "date": "2025-12-29",
+    "rain_mm_day": 82.5,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S008",
+    "date": "2025-12-29",
+    "rain_mm_day": 82.5,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S009",
+    "date": "2025-12-29",
+    "rain_mm_day": 82.5,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S010",
+    "date": "2025-12-29",
+    "rain_mm_day": 82.5,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S011",
+    "date": "2025-12-29",
+    "rain_mm_day": 82.5,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S012",
+    "date": "2025-12-29",
+    "rain_mm_day": 82.5,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S013",
+    "date": "2025-12-29",
+    "rain_mm_day": 82.5,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S014",
+    "date": "2025-12-29",
+    "rain_mm_day": 82.5,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S015",
+    "date": "2025-12-29",
+    "rain_mm_day": 82.5,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S016",
+    "date": "2025-12-29",
+    "rain_mm_day": 82.5,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S017",
+    "date": "2025-12-29",
+    "rain_mm_day": 82.5,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S001",
+    "date": "2025-12-30",
+    "rain_mm_day": 14.7,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S002",
+    "date": "2025-12-30",
+    "rain_mm_day": 14.7,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S003",
+    "date": "2025-12-30",
+    "rain_mm_day": 14.7,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S004",
+    "date": "2025-12-30",
+    "rain_mm_day": 14.7,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S005",
+    "date": "2025-12-30",
+    "rain_mm_day": 14.7,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S006",
+    "date": "2025-12-30",
+    "rain_mm_day": 14.7,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S007",
+    "date": "2025-12-30",
+    "rain_mm_day": 14.7,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S008",
+    "date": "2025-12-30",
+    "rain_mm_day": 14.7,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S009",
+    "date": "2025-12-30",
+    "rain_mm_day": 14.7,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S010",
+    "date": "2025-12-30",
+    "rain_mm_day": 14.7,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S011",
+    "date": "2025-12-30",
+    "rain_mm_day": 14.7,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S012",
+    "date": "2025-12-30",
+    "rain_mm_day": 14.7,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S013",
+    "date": "2025-12-30",
+    "rain_mm_day": 14.7,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S014",
+    "date": "2025-12-30",
+    "rain_mm_day": 14.7,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S015",
+    "date": "2025-12-30",
+    "rain_mm_day": 14.7,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S016",
+    "date": "2025-12-30",
+    "rain_mm_day": 14.7,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S017",
+    "date": "2025-12-30",
+    "rain_mm_day": 14.7,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S001",
+    "date": "2025-12-31",
+    "rain_mm_day": 15.9,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S002",
+    "date": "2025-12-31",
+    "rain_mm_day": 15.9,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S003",
+    "date": "2025-12-31",
+    "rain_mm_day": 15.9,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S004",
+    "date": "2025-12-31",
+    "rain_mm_day": 15.9,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S005",
+    "date": "2025-12-31",
+    "rain_mm_day": 15.9,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S006",
+    "date": "2025-12-31",
+    "rain_mm_day": 15.9,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S007",
+    "date": "2025-12-31",
+    "rain_mm_day": 15.9,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S008",
+    "date": "2025-12-31",
+    "rain_mm_day": 15.9,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S009",
+    "date": "2025-12-31",
+    "rain_mm_day": 15.9,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S010",
+    "date": "2025-12-31",
+    "rain_mm_day": 15.9,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S011",
+    "date": "2025-12-31",
+    "rain_mm_day": 15.9,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S012",
+    "date": "2025-12-31",
+    "rain_mm_day": 15.9,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S013",
+    "date": "2025-12-31",
+    "rain_mm_day": 15.9,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S014",
+    "date": "2025-12-31",
+    "rain_mm_day": 15.9,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S015",
+    "date": "2025-12-31",
+    "rain_mm_day": 15.9,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S016",
+    "date": "2025-12-31",
+    "rain_mm_day": 15.9,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S017",
+    "date": "2025-12-31",
+    "rain_mm_day": 15.9,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S001",
+    "date": "2026-01-01",
+    "rain_mm_day": 10.2,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S002",
+    "date": "2026-01-01",
+    "rain_mm_day": 10.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S003",
+    "date": "2026-01-01",
+    "rain_mm_day": 10.2,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S004",
+    "date": "2026-01-01",
+    "rain_mm_day": 10.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S005",
+    "date": "2026-01-01",
+    "rain_mm_day": 10.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S006",
+    "date": "2026-01-01",
+    "rain_mm_day": 10.2,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S007",
+    "date": "2026-01-01",
+    "rain_mm_day": 10.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S008",
+    "date": "2026-01-01",
+    "rain_mm_day": 10.2,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S009",
+    "date": "2026-01-01",
+    "rain_mm_day": 10.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S010",
+    "date": "2026-01-01",
+    "rain_mm_day": 10.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S011",
+    "date": "2026-01-01",
+    "rain_mm_day": 10.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S012",
+    "date": "2026-01-01",
+    "rain_mm_day": 10.2,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S013",
+    "date": "2026-01-01",
+    "rain_mm_day": 10.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S014",
+    "date": "2026-01-01",
+    "rain_mm_day": 10.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S015",
+    "date": "2026-01-01",
+    "rain_mm_day": 10.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S016",
+    "date": "2026-01-01",
+    "rain_mm_day": 10.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S017",
+    "date": "2026-01-01",
+    "rain_mm_day": 10.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S001",
+    "date": "2026-01-03",
+    "rain_mm_day": 52.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S002",
+    "date": "2026-01-03",
+    "rain_mm_day": 52.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S003",
+    "date": "2026-01-03",
+    "rain_mm_day": 52.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S004",
+    "date": "2026-01-03",
+    "rain_mm_day": 52.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S005",
+    "date": "2026-01-03",
+    "rain_mm_day": 52.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S006",
+    "date": "2026-01-03",
+    "rain_mm_day": 52.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S007",
+    "date": "2026-01-03",
+    "rain_mm_day": 52.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S008",
+    "date": "2026-01-03",
+    "rain_mm_day": 52.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S009",
+    "date": "2026-01-03",
+    "rain_mm_day": 52.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S010",
+    "date": "2026-01-03",
+    "rain_mm_day": 52.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S011",
+    "date": "2026-01-03",
+    "rain_mm_day": 52.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S012",
+    "date": "2026-01-03",
+    "rain_mm_day": 52.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S013",
+    "date": "2026-01-03",
+    "rain_mm_day": 52.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S014",
+    "date": "2026-01-03",
+    "rain_mm_day": 52.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S015",
+    "date": "2026-01-03",
+    "rain_mm_day": 52.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S016",
+    "date": "2026-01-03",
+    "rain_mm_day": 52.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S017",
+    "date": "2026-01-03",
+    "rain_mm_day": 52.2,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S001",
+    "date": "2026-01-10",
+    "rain_mm_day": 8.4,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S002",
+    "date": "2026-01-10",
+    "rain_mm_day": 8.4,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S003",
+    "date": "2026-01-10",
+    "rain_mm_day": 8.4,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S004",
+    "date": "2026-01-10",
+    "rain_mm_day": 8.4,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S005",
+    "date": "2026-01-10",
+    "rain_mm_day": 8.4,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S006",
+    "date": "2026-01-10",
+    "rain_mm_day": 8.4,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S007",
+    "date": "2026-01-10",
+    "rain_mm_day": 8.4,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S008",
+    "date": "2026-01-10",
+    "rain_mm_day": 8.4,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S009",
+    "date": "2026-01-10",
+    "rain_mm_day": 8.4,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S010",
+    "date": "2026-01-10",
+    "rain_mm_day": 8.4,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S011",
+    "date": "2026-01-10",
+    "rain_mm_day": 8.4,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S012",
+    "date": "2026-01-10",
+    "rain_mm_day": 8.4,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S013",
+    "date": "2026-01-10",
+    "rain_mm_day": 8.4,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S014",
+    "date": "2026-01-10",
+    "rain_mm_day": 8.4,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S015",
+    "date": "2026-01-10",
+    "rain_mm_day": 8.4,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S016",
+    "date": "2026-01-10",
+    "rain_mm_day": 8.4,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S017",
+    "date": "2026-01-10",
+    "rain_mm_day": 8.4,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S001",
+    "date": "2026-01-11",
+    "rain_mm_day": 6.3,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S002",
+    "date": "2026-01-11",
+    "rain_mm_day": 6.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S003",
+    "date": "2026-01-11",
+    "rain_mm_day": 6.3,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S004",
+    "date": "2026-01-11",
+    "rain_mm_day": 6.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S005",
+    "date": "2026-01-11",
+    "rain_mm_day": 6.3,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S006",
+    "date": "2026-01-11",
+    "rain_mm_day": 6.3,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S007",
+    "date": "2026-01-11",
+    "rain_mm_day": 6.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S009",
+    "date": "2026-01-11",
+    "rain_mm_day": 6.3,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S010",
+    "date": "2026-01-11",
+    "rain_mm_day": 6.3,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S011",
+    "date": "2026-01-11",
+    "rain_mm_day": 6.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S013",
+    "date": "2026-01-11",
+    "rain_mm_day": 6.3,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S014",
+    "date": "2026-01-11",
+    "rain_mm_day": 6.3,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S015",
+    "date": "2026-01-11",
+    "rain_mm_day": 6.3,
+    "extravasamento": true
+  },
+  {
+    "sensor_id": "S016",
+    "date": "2026-01-11",
+    "rain_mm_day": 6.3,
+    "extravasamento": false
+  },
+  {
+    "sensor_id": "S017",
+    "date": "2026-01-11",
+    "rain_mm_day": 6.3,
+    "extravasamento": true
+  }
+]

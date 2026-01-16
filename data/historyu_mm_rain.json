@@ -1,0 +1,162 @@
+[
+  {
+    "date": "2025-12-16",
+    "mm": 15.6,
+    "is_forecast": false
+  },
+  {
+    "date": "2025-12-17",
+    "mm": 0,
+    "is_forecast": false
+  },
+  {
+    "date": "2025-12-18",
+    "mm": 0,
+    "is_forecast": false
+  },
+  {
+    "date": "2025-12-19",
+    "mm": 0,
+    "is_forecast": false
+  },
+  {
+    "date": "2025-12-20",
+    "mm": 0,
+    "is_forecast": false
+  },
+  {
+    "date": "2025-12-21",
+    "mm": 0,
+    "is_forecast": false
+  },
+  {
+    "date": "2025-12-22",
+    "mm": 0,
+    "is_forecast": false
+  },
+  {
+    "date": "2025-12-23",
+    "mm": 4.5,
+    "is_forecast": false
+  },
+  {
+    "date": "2025-12-24",
+    "mm": 12.3,
+    "is_forecast": false
+  },
+  {
+    "date": "2025-12-25",
+    "mm": 0.9,
+    "is_forecast": false
+  },
+  {
+    "date": "2025-12-26",
+    "mm": 0,
+    "is_forecast": false
+  },
+  {
+    "date": "2025-12-27",
+    "mm": 3.6,
+    "is_forecast": false
+  },
+  {
+    "date": "2025-12-28",
+    "mm": 12.3,
+    "is_forecast": false
+  },
+  {
+    "date": "2025-12-29",
+    "mm": 82.5,
+    "is_forecast": false
+  },
+  {
+    "date": "2025-12-30",
+    "mm": 14.7,
+    "is_forecast": false
+  },
+  {
+    "date": "2025-12-31",
+    "mm": 15.9,
+    "is_forecast": false
+  },
+  {
+    "date": "2026-01-01",
+    "mm": 10.2,
+    "is_forecast": false
+  },
+  {
+    "date": "2026-01-02",
+    "mm": 0,
+    "is_forecast": false
+  },
+  {
+    "date": "2026-01-03",
+    "mm": 52.2,
+    "is_forecast": false
+  },
+  {
+    "date": "2026-01-04",
+    "mm": 0,
+    "is_forecast": false
+  },
+  {
+    "date": "2026-01-05",
+    "mm": 0,
+    "is_forecast": false
+  },
+  {
+    "date": "2026-01-06",
+    "mm": 0,
+    "is_forecast": false
+  },
+  {
+    "date": "2026-01-07",
+    "mm": 0,
+    "is_forecast": false
+  },
+  {
+    "date": "2026-01-08",
+    "mm": 0.6,
+    "is_forecast": false
+  },
+  {
+    "date": "2026-01-09",
+    "mm": 0,
+    "is_forecast": false
+  },
+  {
+    "date": "2026-01-10",
+    "mm": 8.4,
+    "is_forecast": false
+  },
+  {
+    "date": "2026-01-11",
+    "mm": 6.3,
+    "is_forecast": false
+  },
+  {
+    "date": "2026-01-12",
+    "mm": 0.6,
+    "is_forecast": false
+  },
+  {
+    "date": "2026-01-13",
+    "mm": 0.3,
+    "is_forecast": false
+  },
+  {
+    "date": "2026-01-14",
+    "mm": 0,
+    "is_forecast": false
+  },
+  {
+    "date": "2026-01-15",
+    "mm": 0,
+    "is_forecast": false
+  },
+  {
+    "date": "2026-01-16",
+    "mm": 0,
+    "is_forecast": false
+  }
+]

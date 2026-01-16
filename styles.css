@@ -1,0 +1,518 @@
+:root {
+  --bg: #0b1020;
+  --panel: #121a33;
+  --text: #e8ecff;
+  --muted: #b7c0ff;
+  --border: rgba(255, 255, 255, .10);
+  --shadow: 0 10px 30px rgba(0, 0, 0, .35);
+  --radius: 16px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  /* Prevent body scroll, handle in panels */
+}
+
+body {
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;
+  background: radial-gradient(1200px 600px at 30% 0%, rgba(77, 129, 255, .25), transparent 60%),
+    radial-gradient(900px 500px at 80% 10%, rgba(255, 77, 169, .18), transparent 55%),
+    var(--bg);
+  color: var(--text);
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  padding: 16px 20px;
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-shrink: 0;
+  background: rgba(11, 16, 32, 0.5);
+  backdrop-filter: blur(4px);
+  z-index: 10;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 20px;
+  letter-spacing: .2px;
+}
+
+.subtitle {
+  margin: 4px 0 0;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.controls {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+label {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+select,
+input[type="search"] {
+  background: rgba(255, 255, 255, .06);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 8px 12px;
+  outline: none;
+  font-family: inherit;
+}
+
+/* Fix contrast for options */
+select {
+  color: #fff;
+}
+
+select option {
+  background: #222;
+  color: #fff;
+}
+
+input[type="search"] {
+  min-width: 180px;
+}
+
+.separator {
+  width: 1px;
+  height: 24px;
+  background: rgba(255, 255, 255, 0.1);
+  margin: 0 4px;
+}
+
+.sim-group {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.action-btn {
+  background: var(--muted);
+  color: var(--bg);
+  border: none;
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 13px;
+  transition: opacity 0.2s;
+}
+
+.action-btn:hover {
+  opacity: 0.9;
+}
+
+.action-btn.outline {
+  background: transparent;
+  border: 1px solid var(--muted);
+  color: var(--muted);
+}
+
+.action-btn.outline:hover {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.hidden {
+  display: none !important;
+}
+
+.icon-btn-header {
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: #fff;
+  border-radius: 6px;
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+}
+
+.icon-btn-header:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+main {
+  flex: 1;
+  padding: 0 20px 20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  min-height: 0;
+  /* Important for grid item scrolling */
+}
+
+.panel {
+  background: rgba(18, 26, 51, .82);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+/* Map Panel */
+.panel.map {
+  position: relative;
+}
+
+#map {
+  flex: 1;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.legend {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  padding: 12px;
+  border-radius: 12px;
+  background: rgba(0, 0, 0, .6);
+  border: 1px solid rgba(255, 255, 255, .14);
+  backdrop-filter: blur(8px);
+  z-index: 1000;
+  /* Above Leaflet */
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.legend-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  font-size: 12px;
+  color: var(--text);
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.dot.pouca {
+  background: #39d98a;
+}
+
+.dot.media {
+  background: #f6c343;
+}
+
+.dot.alta {
+  background: #ff8a4c;
+}
+
+.dot.critica {
+  background: #ff4d6d;
+}
+
+/* Table Panel */
+.table {
+  display: flex;
+  flex-direction: column;
+}
+
+.table-head {
+  padding: 16px 20px;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.table-head h2 {
+  margin: 0;
+  font-size: 16px;
+}
+
+.meta {
+  color: var(--muted);
+  font-size: 12px;
+  text-align: right;
+}
+
+.table-wrap {
+  flex: 1;
+  overflow: auto;
+  /* Scroll table body */
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 12px 16px;
+  border-bottom: 1px solid rgba(255, 255, 255, .08);
+  font-size: 13px;
+  white-space: nowrap;
+}
+
+th {
+  position: sticky;
+  top: 0;
+  background: rgba(18, 26, 51, .98);
+  cursor: pointer;
+  color: var(--muted);
+  text-align: left;
+  z-index: 2;
+}
+
+.num {
+  text-align: right;
+}
+
+tr:hover td {
+  background: rgba(255, 255, 255, .04);
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.badge span {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+
+.note {
+  padding: 12px 20px;
+  color: var(--muted);
+  font-size: 11px;
+  border-top: 1px solid var(--border);
+  margin: 0;
+  flex-shrink: 0;
+}
+
+footer {
+  padding: 8px 20px;
+  color: rgba(255, 255, 255, 0.3);
+  font-size: 11px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+code {
+  color: #d7deff;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1000px) {
+  main {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+    overflow: auto;
+    /* Allow scrolling main on toggle/mobile */
+  }
+
+  /* On mobile layout, we might want to let the body scroll instead of panels */
+  html,
+  body {
+    overflow: auto;
+    height: auto;
+  }
+
+  main {
+    display: block;
+    height: auto;
+  }
+
+  .panel {
+    height: 500px;
+    margin-bottom: 20px;
+  }
+}
+
+/* Modal Styles */
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+  backdrop-filter: blur(4px);
+  padding: 20px;
+}
+
+.modal.hidden {
+  display: none;
+}
+
+.modal-content {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  width: 100%;
+  max-width: 500px;
+  max-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  box-shadow: var(--shadow);
+}
+
+.modal-header {
+  padding: 16px 20px;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.modal-header h2 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.close-btn {
+  background: none;
+  border: none;
+  font-size: 24px;
+  color: var(--muted);
+  cursor: pointer;
+  padding: 0;
+  line-height: 1;
+}
+
+.close-btn:hover {
+  color: #fff;
+}
+
+.modal-body {
+  overflow-y: auto;
+  padding: 0;
+}
+
+.modal-body table th {
+  top: 0;
+  position: sticky;
+  background: #121a33;
+}
+
+/* Icon interactions */
+.icon-btn {
+  cursor: pointer;
+  opacity: 0.7;
+  font-size: 16px;
+  transition: opacity 0.2s;
+  display: inline-block;
+  padding: 4px;
+}
+
+.icon-btn:hover {
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+/* Fuzzy Gauge Styles */
+.fuzzy-gauge-container {
+  position: relative;
+  margin: 30px 0;
+  padding-bottom: 20px;
+}
+
+.fuzzy-scale {
+  display: flex;
+  height: 30px;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.scale-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-weight: bold;
+  font-size: 0.8rem;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+}
+
+.fuzzy-needle {
+  position: absolute;
+  top: -5px;
+  width: 4px;
+  height: 40px;
+  background: #fff;
+  border: 2px solid #333;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+  transform: translateX(-50%);
+  transition: left 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  z-index: 10;
+}
+
+.fuzzy-needle::after {
+  content: '';
+  position: absolute;
+  top: -6px;
+  left: -6px;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 8px solid #333;
+}
+
+.fuzzy-score-val {
+  text-align: center;
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: var(--text-primary);
+}
+
+.didactic-box {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--border);
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+.didactic-box h4 {
+  margin: 0 0 10px 0;
+  color: var(--accent);
+}
+
+.didactic-box p {
+  margin: 0;
+  line-height: 1.5;
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+}

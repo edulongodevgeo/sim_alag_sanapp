@@ -1,0 +1,159 @@
+{
+  "generated_at": "2026-01-15T21:28:34.101346-03:00",
+  "city": "Florianopolis-SC",
+  "sensors": [
+    {
+      "sensor_id": "S001",
+      "name": "Ponto 1",
+      "description": "",
+      "location": {
+        "lat": -27.5806426,
+        "lon": -48.5853221
+      }
+    },
+    {
+      "sensor_id": "S002",
+      "name": "Ponto 2",
+      "description": "",
+      "location": {
+        "lat": -27.585724,
+        "lon": -48.585374
+      }
+    },
+    {
+      "sensor_id": "S003",
+      "name": "Ponto 2",
+      "description": "",
+      "location": {
+        "lat": -27.6026791,
+        "lon": -48.5007347
+      }
+    },
+    {
+      "sensor_id": "S004",
+      "name": "Ponto 3",
+      "description": "",
+      "location": {
+        "lat": -27.6038897,
+        "lon": -48.4777571
+      }
+    },
+    {
+      "sensor_id": "S005",
+      "name": "Ponto 4",
+      "description": "",
+      "location": {
+        "lat": -27.601524,
+        "lon": -48.4758496
+      }
+    },
+    {
+      "sensor_id": "S006",
+      "name": "Ponto 5",
+      "description": "",
+      "location": {
+        "lat": -27.601798,
+        "lon": -48.4760648
+      }
+    },
+    {
+      "sensor_id": "S007",
+      "name": "Ponto 6",
+      "description": "",
+      "location": {
+        "lat": -27.5993287,
+        "lon": -48.471547
+      }
+    },
+    {
+      "sensor_id": "S008",
+      "name": "Ponto 7",
+      "description": "",
+      "location": {
+        "lat": -27.5997412,
+        "lon": -48.4729407
+      }
+    },
+    {
+      "sensor_id": "S009",
+      "name": "Ponto 8",
+      "description": "",
+      "location": {
+        "lat": -27.5727666,
+        "lon": -48.5378399
+      }
+    },
+    {
+      "sensor_id": "S010",
+      "name": "Ponto 9",
+      "description": "",
+      "location": {
+        "lat": -27.5803313,
+        "lon": -48.5434069
+      }
+    },
+    {
+      "sensor_id": "S011",
+      "name": "Ponto 10",
+      "description": "",
+      "location": {
+        "lat": -27.5868886,
+        "lon": -48.5496523
+      }
+    },
+    {
+      "sensor_id": "S012",
+      "name": "Ponto 11",
+      "description": "",
+      "location": {
+        "lat": -27.5866128,
+        "lon": -48.5487323
+      }
+    },
+    {
+      "sensor_id": "S013",
+      "name": "Ponto 12",
+      "description": "",
+      "location": {
+        "lat": -27.585738,
+        "lon": -48.5493304
+      }
+    },
+    {
+      "sensor_id": "S014",
+      "name": "Ponto 13",
+      "description": "",
+      "location": {
+        "lat": -27.5859876,
+        "lon": -48.5499607
+      }
+    },
+    {
+      "sensor_id": "S015",
+      "name": "Ponto 14",
+      "description": "",
+      "location": {
+        "lat": -27.5916271,
+        "lon": -48.5517766
+      }
+    },
+    {
+      "sensor_id": "S016",
+      "name": "Ponto 15",
+      "description": "",
+      "location": {
+        "lat": -27.5916703,
+        "lon": -48.5496853
+      }
+    },
+    {
+      "sensor_id": "S017",
+      "name": "Ponto 17",
+      "description": "",
+      "location": {
+        "lat": -27.5574613,
+        "lon": -48.4969506
+      }
+    }
+  ]
+}
