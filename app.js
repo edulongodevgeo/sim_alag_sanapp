@@ -4,10 +4,100 @@ const $$ = (sel) => Array.from(document.querySelectorAll(sel));
 let sensores = null;
 let predicoes = null;
 let historyEvents = null;
+let tidesData = null;
+let moonData = null;
 let currentIndex = 0;
 let markers = new Map();
 let sortState = { key: 'score', dir: 'desc' };
 let simulatedRain = null;
+
+// Month name mappings for JSON lookup
+const monthNamesPt = [
+  'janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho',
+  'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'
+];
+
+/**
+ * Get the highest tide entry for a given date string (YYYY-MM-DD)
+ * Returns { altura, hora, tipo } or null if not found
+ */
+function getHighTideForDate(dateStr) {
+  if (!tidesData) return null;
+  const [year, month, day] = dateStr.split('-').map(Number);
+  const monthName = monthNamesPt[month - 1];
+  const dayStr = String(day);
+
+  const tides = tidesData?.tabua_mares_florianopolis_2026?.[monthName]?.[dayStr];
+  if (!tides || tides.length === 0) return null;
+
+  // Find the highest tide (enchente with max altura)
+  let highest = tides[0];
+  tides.forEach(t => {
+    if (t.altura > highest.altura) highest = t;
+  });
+  return highest;
+}
+
+/**
+ * Get the moon phase for a given date string (YYYY-MM-DD)
+ * Returns { phase: 'lua_cheia' | 'lua_nova' | ..., emoji: string } or null
+ */
+function getMoonPhaseForDate(dateStr) {
+  if (!moonData) return null;
+  const targetDate = new Date(dateStr + 'T12:00:00');
+  const phases = moonData?.fases_lua_2026?.fases;
+  if (!phases) return null;
+
+  // Collect all phase events with their dates
+  const allPhases = [];
+  phases.forEach(monthData => {
+    const phaseTypes = ['lua_cheia', 'lua_minguante', 'lua_nova', 'lua_crescente', 'lua_cheia_extra', 'lua_minguante_extra'];
+    phaseTypes.forEach(pt => {
+      if (monthData[pt]) {
+        allPhases.push({ type: pt, date: new Date(monthData[pt].data + 'T12:00:00') });
+      }
+    });
+  });
+
+  if (allPhases.length === 0) return null;
+
+  // Sort by date
+  allPhases.sort((a, b) => a.date - b.date);
+
+  // Find the nearest previous phase
+  let nearestPhase = allPhases[0];
+  for (const p of allPhases) {
+    if (p.date <= targetDate) {
+      nearestPhase = p;
+    } else {
+      break;
+    }
+  }
+
+  const phaseEmojis = {
+    'lua_cheia': '🌕',
+    'lua_cheia_extra': '🌕',
+    'lua_minguante': '🌗',
+    'lua_minguante_extra': '🌗',
+    'lua_nova': '🌑',
+    'lua_crescente': '🌓'
+  };
+
+  const phaseNames = {
+    'lua_cheia': 'Cheia',
+    'lua_cheia_extra': 'Cheia',
+    'lua_minguante': 'Minguante',
+    'lua_minguante_extra': 'Minguante',
+    'lua_nova': 'Nova',
+    'lua_crescente': 'Crescente'
+  };
+
+  return {
+    phase: nearestPhase.type,
+    name: phaseNames[nearestPhase.type] || nearestPhase.type,
+    emoji: phaseEmojis[nearestPhase.type] || '🌙'
+  };
+}
 
 function categoriaDotClass(cat) {
   const c = (cat || '').toLowerCase();
@@ -264,6 +354,20 @@ async function init() {
     predicoes = await loadJson('data/previsao_tempo.json');
     historyEvents = await loadJson('data/history_sensores.json');
 
+    // Load tide and moon data
+    try {
+      tidesData = await loadJson('data/hist_mares.json');
+    } catch (e) {
+      console.warn('Dados de marés não disponíveis:', e.message);
+      tidesData = null;
+    }
+    try {
+      moonData = await loadJson('data/hist_lua.json');
+    } catch (e) {
+      console.warn('Dados de fases da lua não disponíveis:', e.message);
+      moonData = null;
+    }
+
     // --- INTELLIGENCE INJECTION (Real-Time) ---
     // 1. Learn Critical Thresholds from History
     const learnedThresholds = LearnFromHistory(sensores.sensors, historyEvents);
@@ -382,17 +486,35 @@ function openHistory(e, sensorId) {
     .sort((a, b) => new Date(b.date) - new Date(a.date));
 
   if (events.length === 0) {
-    tbody.innerHTML = '<tr><td colspan="3" style="text-align:center; padding:20px; color:#888">Sem registros de extravasamento no histórico.</td></tr>';
+    tbody.innerHTML = '<tr><td colspan="5" style="text-align:center; padding:20px; color:#888">Sem registros de extravasamento no histórico.</td></tr>';
   } else {
     events.forEach(ev => {
       const row = document.createElement('tr');
       const isSim = ev.extravasamento;
+
+      // Get tide info
+      const tide = getHighTideForDate(ev.date);
+      let tideHtml = '<span style="color:#666">—</span>';
+      if (tide) {
+        const tideColor = tide.altura >= 0.8 ? '#ff8a4c' : (tide.altura >= 0.6 ? '#f6c343' : '#39d98a');
+        tideHtml = `<span style="color:${tideColor}; font-weight:bold" title="${tide.tipo} às ${tide.hora}">${tide.altura.toFixed(1)}m</span>`;
+      }
+
+      // Get moon phase
+      const moon = getMoonPhaseForDate(ev.date);
+      let moonHtml = '<span style="color:#666">—</span>';
+      if (moon) {
+        moonHtml = `<span title="${moon.name}">${moon.emoji} ${moon.name}</span>`;
+      }
+
       row.innerHTML = `
         <td>${ev.date.split('-').reverse().join('/')}</td>
         <td class="num">${fmt(ev.rain_mm_day, 1)}</td>
         <td style="text-align:center; font-weight:bold; color: ${isSim ? '#ff4d6d' : '#39d98a'}">
           ${isSim ? 'Sim' : 'Não'}
         </td>
+        <td style="text-align:center">${tideHtml}</td>
+        <td style="text-align:center">${moonHtml}</td>
       `;
       tbody.appendChild(row);
     });

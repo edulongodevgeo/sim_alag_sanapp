@@ -1,0 +1,1905 @@
+{
+    "tabua_mares_florianopolis_2026": {
+        "dezembro": {
+            "1": [
+                {
+                    "hora": "02:15",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "08:42",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "14:28",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "20:55",
+                    "altura": 0.1,
+                    "tipo": "vazante"
+                }
+            ],
+            "2": [
+                {
+                    "hora": "02:48",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "09:15",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "15:02",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "21:30",
+                    "altura": 0.1,
+                    "tipo": "vazante"
+                }
+            ],
+            "3": [
+                {
+                    "hora": "03:22",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "09:48",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "15:35",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "22:05",
+                    "altura": 0.0,
+                    "tipo": "vazante"
+                }
+            ],
+            "4": [
+                {
+                    "hora": "03:55",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "10:20",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "16:08",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "22:40",
+                    "altura": 0.1,
+                    "tipo": "vazante"
+                }
+            ],
+            "5": [
+                {
+                    "hora": "04:28",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "10:52",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "16:42",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "23:15",
+                    "altura": 0.2,
+                    "tipo": "vazante"
+                }
+            ],
+            "6": [
+                {
+                    "hora": "05:02",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "11:25",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "17:18",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "23:50",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                }
+            ],
+            "7": [
+                {
+                    "hora": "05:38",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "12:00",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "17:55",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                }
+            ],
+            "8": [
+                {
+                    "hora": "00:28",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "06:18",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "12:40",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "18:38",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                }
+            ],
+            "9": [
+                {
+                    "hora": "01:10",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "07:02",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "13:25",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "19:28",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                }
+            ],
+            "10": [
+                {
+                    "hora": "02:00",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "07:55",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "14:18",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "20:25",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                }
+            ],
+            "11": [
+                {
+                    "hora": "03:00",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "08:55",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "15:18",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "21:28",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                }
+            ],
+            "12": [
+                {
+                    "hora": "04:05",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "10:00",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "16:20",
+                    "altura": 0.2,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "22:32",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                }
+            ],
+            "13": [
+                {
+                    "hora": "05:10",
+                    "altura": 0.2,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "11:05",
+                    "altura": 1.0,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "17:22",
+                    "altura": 0.1,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "23:35",
+                    "altura": 1.0,
+                    "tipo": "enchente"
+                }
+            ],
+            "14": [
+                {
+                    "hora": "06:12",
+                    "altura": 0.2,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "12:08",
+                    "altura": 1.0,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "18:22",
+                    "altura": 0.0,
+                    "tipo": "vazante"
+                }
+            ],
+            "15": [
+                {
+                    "hora": "00:35",
+                    "altura": 1.0,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "07:10",
+                    "altura": 0.2,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "13:08",
+                    "altura": 1.0,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "19:18",
+                    "altura": 0.0,
+                    "tipo": "vazante"
+                }
+            ],
+            "16": [
+                {
+                    "hora": "01:32",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "08:05",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "14:02",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "20:10",
+                    "altura": 0.1,
+                    "tipo": "vazante"
+                }
+            ],
+            "17": [
+                {
+                    "hora": "02:25",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "08:55",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "14:52",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "20:58",
+                    "altura": 0.1,
+                    "tipo": "vazante"
+                }
+            ],
+            "18": [
+                {
+                    "hora": "03:15",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "09:42",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "15:38",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "21:42",
+                    "altura": 0.2,
+                    "tipo": "vazante"
+                }
+            ],
+            "19": [
+                {
+                    "hora": "04:02",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "10:25",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "16:22",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "22:22",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                }
+            ],
+            "20": [
+                {
+                    "hora": "04:48",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "11:05",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "17:05",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "23:00",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                }
+            ],
+            "21": [
+                {
+                    "hora": "05:32",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "11:45",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "17:48",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "23:38",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                }
+            ],
+            "22": [
+                {
+                    "hora": "06:18",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "12:28",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "18:35",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                }
+            ],
+            "23": [
+                {
+                    "hora": "00:18",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "07:08",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "13:15",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "19:28",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                }
+            ],
+            "24": [
+                {
+                    "hora": "01:02",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "08:02",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "14:08",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "20:25",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                }
+            ],
+            "25": [
+                {
+                    "hora": "01:52",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "09:00",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "15:05",
+                    "altura": 0.2,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "21:25",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                }
+            ],
+            "26": [
+                {
+                    "hora": "02:48",
+                    "altura": 0.2,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "10:00",
+                    "altura": 1.0,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "16:05",
+                    "altura": 0.1,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "22:28",
+                    "altura": 1.0,
+                    "tipo": "enchente"
+                }
+            ],
+            "27": [
+                {
+                    "hora": "03:48",
+                    "altura": 0.1,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "11:02",
+                    "altura": 1.0,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "17:05",
+                    "altura": 0.0,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "23:30",
+                    "altura": 1.0,
+                    "tipo": "enchente"
+                }
+            ],
+            "28": [
+                {
+                    "hora": "04:48",
+                    "altura": 0.1,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "12:02",
+                    "altura": 1.0,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "18:02",
+                    "altura": 0.0,
+                    "tipo": "vazante"
+                }
+            ],
+            "29": [
+                {
+                    "hora": "00:30",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "05:45",
+                    "altura": 0.2,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "12:58",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "18:55",
+                    "altura": 0.1,
+                    "tipo": "vazante"
+                }
+            ],
+            "30": [
+                {
+                    "hora": "01:28",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "06:38",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "13:50",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "19:45",
+                    "altura": 0.1,
+                    "tipo": "vazante"
+                }
+            ],
+            "31": [
+                {
+                    "hora": "02:22",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "07:28",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "14:38",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "20:32",
+                    "altura": 0.2,
+                    "tipo": "vazante"
+                }
+            ]
+        },
+        "janeiro": {
+            "1": [
+                {
+                    "hora": "06:04",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "01:42",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "08:16",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "13:12",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "19:59",
+                    "altura": 0.1,
+                    "tipo": "vazante"
+                }
+            ],
+            "2": [
+                {
+                    "hora": "06:38",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "02:32",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "09:10",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "13:47",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "20:44",
+                    "altura": 0.0,
+                    "tipo": "vazante"
+                }
+            ],
+            "3": [
+                {
+                    "hora": "03:14",
+                    "altura": 1.0,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "09:55",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "14:12",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "21:25",
+                    "altura": 0.0,
+                    "tipo": "vazante"
+                }
+            ],
+            "4": [
+                {
+                    "hora": "03:51",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "10:25",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "14:47",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "22:08",
+                    "altura": 0.0,
+                    "tipo": "vazante"
+                }
+            ],
+            "5": [
+                {
+                    "hora": "04:21",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "10:31",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "15:14",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "22:47",
+                    "altura": 0.0,
+                    "tipo": "vazante"
+                }
+            ],
+            "6": [
+                {
+                    "hora": "04:49",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "09:42",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "15:49",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "23:16",
+                    "altura": 0.1,
+                    "tipo": "vazante"
+                }
+            ],
+            "7": [
+                {
+                    "hora": "05:12",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "09:46",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "16:23",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "23:25",
+                    "altura": 0.2,
+                    "tipo": "vazante"
+                }
+            ],
+            "8": [
+                {
+                    "hora": "05:38",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "10:02",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "16:59",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "23:04",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                }
+            ],
+            "9": [
+                {
+                    "hora": "06:02",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "10:34",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "17:44",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "23:06",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                }
+            ],
+            "10": [
+                {
+                    "hora": "01:53",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "11:06",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "18:49",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "23:29",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                }
+            ],
+            "11": [
+                {
+                    "hora": "02:29",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "08:57",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "14:25",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "20:57",
+                    "altura": 0.0,
+                    "tipo": "vazante"
+                }
+            ],
+            "12": [
+                {
+                    "hora": "03:06",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "09:12",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "14:59",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "21:32",
+                    "altura": 0.0,
+                    "tipo": "vazante"
+                }
+            ],
+            "13": [
+                {
+                    "hora": "03:42",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "09:27",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "15:31",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "22:08",
+                    "altura": 0.0,
+                    "tipo": "vazante"
+                }
+            ],
+            "14": [
+                {
+                    "hora": "00:17",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "08:01",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "12:42",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "19:01",
+                    "altura": 0.1,
+                    "tipo": "vazante"
+                }
+            ],
+            "15": [
+                {
+                    "hora": "00:04",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "03:21",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "05:57",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "08:53",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                }
+            ],
+            "16": [
+                {
+                    "hora": "01:27",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "03:27",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "06:55",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "10:59",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "17:27",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                }
+            ],
+            "17": [
+                {
+                    "hora": "10:34",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "13:17",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "19:40",
+                    "altura": 0.1,
+                    "tipo": "vazante"
+                }
+            ],
+            "18": [
+                {
+                    "hora": "10:49",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "13:14",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "16:08",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                }
+            ],
+            "19": [
+                {
+                    "hora": "00:17",
+                    "altura": 0.2,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "05:17",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "09:16",
+                    "altura": 0.5,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "13:40",
+                    "altura": 0.5,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "17:31",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                }
+            ],
+            "20": [
+                {
+                    "hora": "00:55",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "06:57",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "13:47",
+                    "altura": 0.5,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "18:31",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                }
+            ],
+            "21": [
+                {
+                    "hora": "01:29",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "07:49",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "12:47",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "19:19",
+                    "altura": 0.2,
+                    "tipo": "vazante"
+                }
+            ],
+            "22": [
+                {
+                    "hora": "02:01",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "08:27",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "13:06",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "20:02",
+                    "altura": 0.1,
+                    "tipo": "vazante"
+                }
+            ],
+            "23": [
+                {
+                    "hora": "02:29",
+                    "altura": 1.0,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "08:59",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "13:34",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "20:40",
+                    "altura": 0.0,
+                    "tipo": "vazante"
+                }
+            ],
+            "24": [
+                {
+                    "hora": "00:17",
+                    "altura": 0.2,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "03:02",
+                    "altura": 1.0,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "09:23",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "14:08",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "21:38",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                }
+            ],
+            "25": [
+                {
+                    "hora": "01:32",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "03:14",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "07:40",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                }
+            ],
+            "26": [
+                {
+                    "hora": "03:14",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "09:45",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "15:30",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "20:15",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                }
+            ],
+            "27": [
+                {
+                    "hora": "05:17",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "09:16",
+                    "altura": 0.5,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "13:40",
+                    "altura": 0.5,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "17:31",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                }
+            ],
+            "28": [
+                {
+                    "hora": "00:55",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "06:57",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "13:47",
+                    "altura": 0.5,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "18:31",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                }
+            ],
+            "29": [
+                {
+                    "hora": "01:29",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "07:49",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "12:47",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "19:19",
+                    "altura": 0.2,
+                    "tipo": "vazante"
+                }
+            ],
+            "30": [
+                {
+                    "hora": "02:01",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "08:27",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "13:06",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "20:02",
+                    "altura": 0.1,
+                    "tipo": "vazante"
+                }
+            ],
+            "31": [
+                {
+                    "hora": "02:29",
+                    "altura": 1.0,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "08:59",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "13:34",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "20:40",
+                    "altura": 0.0,
+                    "tipo": "vazante"
+                }
+            ]
+        },
+        "fevereiro": {
+            "1": [
+                {
+                    "hora": "03:02",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "08:21",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "18:25",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                }
+            ],
+            "2": [
+                {
+                    "hora": "02:59",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "14:46",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "19:42",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                }
+            ],
+            "3": [
+                {
+                    "hora": "03:51",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "09:16",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "15:02",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "22:14",
+                    "altura": 0.1,
+                    "tipo": "vazante"
+                }
+            ],
+            "4": [
+                {
+                    "hora": "04:10",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "09:16",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "15:36",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "22:21",
+                    "altura": 0.1,
+                    "tipo": "vazante"
+                }
+            ],
+            "5": [
+                {
+                    "hora": "04:34",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "09:31",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "16:04",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "22:14",
+                    "altura": 0.2,
+                    "tipo": "vazante"
+                }
+            ],
+            "6": [
+                {
+                    "hora": "04:57",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "09:57",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "16:40",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "22:16",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                }
+            ],
+            "7": [
+                {
+                    "hora": "05:14",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "10:16",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "17:16",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "22:29",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                }
+            ],
+            "8": [
+                {
+                    "hora": "05:38",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "10:49",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "18:06",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "22:49",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                }
+            ],
+            "9": [
+                {
+                    "hora": "02:59",
+                    "altura": 1.0,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "09:17",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "14:02",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "21:14",
+                    "altura": 0.0,
+                    "tipo": "vazante"
+                }
+            ],
+            "10": [
+                {
+                    "hora": "03:23",
+                    "altura": 1.0,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "09:23",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "14:32",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "21:49",
+                    "altura": 0.0,
+                    "tipo": "vazante"
+                }
+            ],
+            "11": [
+                {
+                    "hora": "02:53",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "07:16",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "10:34",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                }
+            ],
+            "12": [
+                {
+                    "hora": "01:44",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "07:31",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "11:49",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                }
+            ],
+            "13": [
+                {
+                    "hora": "00:57",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "07:51",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "12:29",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                }
+            ],
+            "14": [
+                {
+                    "hora": "01:14",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "08:06",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "13:04",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                }
+            ],
+            "15": [
+                {
+                    "hora": "01:42",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "08:23",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "13:40",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                }
+            ],
+            "16": [
+                {
+                    "hora": "02:12",
+                    "altura": 1.0,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "08:36",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "14:08",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                }
+            ],
+            "17": [
+                {
+                    "hora": "02:49",
+                    "altura": 1.0,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "08:55",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "14:44",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                }
+            ],
+            "18": [
+                {
+                    "hora": "03:17",
+                    "altura": 1.0,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "09:14",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "15:16",
+                    "altura": 1.0,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "21:51",
+                    "altura": 0.0,
+                    "tipo": "vazante"
+                }
+            ],
+            "19": [
+                {
+                    "hora": "03:55",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "09:40",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "15:55",
+                    "altura": 1.0,
+                    "tipo": "enchente"
+                }
+            ],
+            "20": [
+                {
+                    "hora": "04:23",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "10:02",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "16:29",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "23:01",
+                    "altura": 0.2,
+                    "tipo": "vazante"
+                }
+            ],
+            "21": [
+                {
+                    "hora": "04:57",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "10:12",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "17:08",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "23:34",
+                    "altura": 0.3,
+                    "tipo": "vazante"
+                }
+            ],
+            "22": [
+                {
+                    "hora": "05:23",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "10:02",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "17:59",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                }
+            ],
+            "23": [
+                {
+                    "hora": "05:49",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "10:02",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "19:06",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                }
+            ],
+            "24": [
+                {
+                    "hora": "00:49",
+                    "altura": 0.6,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "04:27",
+                    "altura": 0.6,
+                    "tipo": "vazante"
+                }
+            ],
+            "25": [
+                {
+                    "hora": "01:10",
+                    "altura": 0.8,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "07:32",
+                    "altura": 0.5,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "13:42",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                }
+            ],
+            "26": [
+                {
+                    "hora": "01:31",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "07:44",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "12:29",
+                    "altura": 0.6,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "19:06",
+                    "altura": 0.1,
+                    "tipo": "vazante"
+                }
+            ],
+            "27": [
+                {
+                    "hora": "01:36",
+                    "altura": 0.9,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "08:12",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "13:27",
+                    "altura": 0.5,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "17:29",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                }
+            ],
+            "28": [
+                {
+                    "hora": "01:44",
+                    "altura": 1.0,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "08:01",
+                    "altura": 0.4,
+                    "tipo": "vazante"
+                },
+                {
+                    "hora": "12:38",
+                    "altura": 0.7,
+                    "tipo": "enchente"
+                },
+                {
+                    "hora": "19:47",
+                    "altura": 0.1,
+                    "tipo": "vazante"
+                }
+            ]
+        }
+    }
+}

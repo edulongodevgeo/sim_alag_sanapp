@@ -1,0 +1,248 @@
+{
+    "fases_lua_2026": {
+        "fonte": "Instituto Nacional de Meteorologia (INMET) / Departamento de Astronomia do IAG-USP",
+        "ano": 2026,
+        "fases": [
+            {
+                "mes": "janeiro",
+                "lua_cheia": {
+                    "data": "2026-01-03",
+                    "hora": "07:04"
+                },
+                "lua_minguante": {
+                    "data": "2026-01-10",
+                    "hora": "12:49"
+                },
+                "lua_nova": {
+                    "data": "2026-01-18",
+                    "hora": "16:53"
+                },
+                "lua_crescente": {
+                    "data": "2026-01-26",
+                    "hora": "01:48"
+                }
+            },
+            {
+                "mes": "fevereiro",
+                "lua_cheia": {
+                    "data": "2026-02-01",
+                    "hora": "19:10"
+                },
+                "lua_minguante": {
+                    "data": "2026-02-09",
+                    "hora": "09:44"
+                },
+                "lua_nova": {
+                    "data": "2026-02-17",
+                    "hora": "09:03"
+                },
+                "lua_crescente": {
+                    "data": "2026-02-24",
+                    "hora": "09:28"
+                }
+            },
+            {
+                "mes": "março",
+                "lua_cheia": {
+                    "data": "2026-03-03",
+                    "hora": "08:39"
+                },
+                "lua_minguante": {
+                    "data": "2026-03-11",
+                    "hora": "06:41"
+                },
+                "lua_nova": {
+                    "data": "2026-03-18",
+                    "hora": "22:26"
+                },
+                "lua_crescente": {
+                    "data": "2026-03-25",
+                    "hora": "16:19"
+                }
+            },
+            {
+                "mes": "abril",
+                "lua_cheia": {
+                    "data": "2026-04-01",
+                    "hora": "23:13"
+                },
+                "lua_minguante": {
+                    "data": "2026-04-10",
+                    "hora": "01:55"
+                },
+                "lua_nova": {
+                    "data": "2026-04-17",
+                    "hora": "08:54"
+                },
+                "lua_crescente": {
+                    "data": "2026-04-23",
+                    "hora": "23:33"
+                }
+            },
+            {
+                "mes": "maio",
+                "lua_cheia": {
+                    "data": "2026-05-01",
+                    "hora": "14:24"
+                },
+                "lua_minguante": {
+                    "data": "2026-05-09",
+                    "hora": "18:13"
+                },
+                "lua_nova": {
+                    "data": "2026-05-16",
+                    "hora": "17:03"
+                },
+                "lua_crescente": {
+                    "data": "2026-05-23",
+                    "hora": "08:12"
+                },
+                "lua_cheia_extra": {
+                    "data": "2026-05-31",
+                    "hora": "05:46"
+                }
+            },
+            {
+                "mes": "junho",
+                "lua_minguante": {
+                    "data": "2026-06-08",
+                    "hora": "07:03"
+                },
+                "lua_nova": {
+                    "data": "2026-06-14",
+                    "hora": "23:56"
+                },
+                "lua_crescente": {
+                    "data": "2026-06-21",
+                    "hora": "18:55"
+                },
+                "lua_cheia": {
+                    "data": "2026-06-29",
+                    "hora": "20:58"
+                }
+            },
+            {
+                "mes": "julho",
+                "lua_minguante": {
+                    "data": "2026-07-07",
+                    "hora": "16:30"
+                },
+                "lua_nova": {
+                    "data": "2026-07-14",
+                    "hora": "06:45"
+                },
+                "lua_crescente": {
+                    "data": "2026-07-21",
+                    "hora": "08:05"
+                },
+                "lua_cheia": {
+                    "data": "2026-07-29",
+                    "hora": "11:37"
+                }
+            },
+            {
+                "mes": "agosto",
+                "lua_minguante": {
+                    "data": "2026-08-05",
+                    "hora": "23:22"
+                },
+                "lua_nova": {
+                    "data": "2026-08-12",
+                    "hora": "14:37"
+                },
+                "lua_crescente": {
+                    "data": "2026-08-19",
+                    "hora": "23:46"
+                },
+                "lua_cheia": {
+                    "data": "2026-08-28",
+                    "hora": "01:19"
+                }
+            },
+            {
+                "mes": "setembro",
+                "lua_minguante": {
+                    "data": "2026-09-04",
+                    "hora": "04:52"
+                },
+                "lua_nova": {
+                    "data": "2026-09-11",
+                    "hora": "00:27"
+                },
+                "lua_crescente": {
+                    "data": "2026-09-18",
+                    "hora": "17:44"
+                },
+                "lua_cheia": {
+                    "data": "2026-09-26",
+                    "hora": "13:50"
+                }
+            },
+            {
+                "mes": "outubro",
+                "lua_minguante": {
+                    "data": "2026-10-03",
+                    "hora": "10:26"
+                },
+                "lua_nova": {
+                    "data": "2026-10-10",
+                    "hora": "12:50"
+                },
+                "lua_crescente": {
+                    "data": "2026-10-18",
+                    "hora": "13:13"
+                },
+                "lua_cheia": {
+                    "data": "2026-10-26",
+                    "hora": "01:13"
+                }
+            },
+            {
+                "mes": "novembro",
+                "lua_minguante": {
+                    "data": "2026-11-01",
+                    "hora": "17:30"
+                },
+                "lua_nova": {
+                    "data": "2026-11-09",
+                    "hora": "04:02"
+                },
+                "lua_crescente": {
+                    "data": "2026-11-17",
+                    "hora": "08:48"
+                },
+                "lua_cheia": {
+                    "data": "2026-11-24",
+                    "hora": "11:55"
+                }
+            },
+            {
+                "mes": "dezembro",
+                "lua_minguante": {
+                    "data": "2026-12-01",
+                    "hora": "03:10"
+                },
+                "lua_nova": {
+                    "data": "2026-12-08",
+                    "hora": "21:52"
+                },
+                "lua_crescente": {
+                    "data": "2026-12-17",
+                    "hora": "02:43"
+                },
+                "lua_cheia": {
+                    "data": "2026-12-23",
+                    "hora": "22:29"
+                },
+                "lua_minguante_extra": {
+                    "data": "2026-12-30",
+                    "hora": "16:00"
+                }
+            }
+        ],
+        "observacoes": {
+            "maio": "Maio tem duas luas cheias (lua azul)",
+            "dezembro": "Dezembro tem duas luas minguantes"
+        }
+    }
+}
